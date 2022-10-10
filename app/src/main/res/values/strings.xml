@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ArtSpace</string>
+    <string name="flower_1_name">Rainbow Flower Rainbow Flower Rainbow Flower</string>
+    <string name="flower_2_name">Spring Flower Spring Flower</string>
+    <string name="flower_3_name">Purple Flower</string>
+    <string name="flower_4_name">Dandelion Dandelion Dandelion</string>
+    <string name="flower_5_name">Daisy Daisy Daisy Daisy</string>
+    <string name="flower_6_name">Flower Field Flower Field</string>
+
+    <string name="flower_1_artist">Owen</string>
+    <string name="flower_2_artist">John</string>
+    <string name="flower_3_artist">Fiona</string>
+    <string name="flower_4_artist">Sasha</string>
+    <string name="flower_5_artist">David</string>
+    <string name="flower_6_artist">Anna</string>
+
+    <string name="flower_1_year">2020</string>
+    <string name="flower_2_year">2021</string>
+    <string name="flower_3_year">2019</string>
+    <string name="flower_4_year">2022</string>
+    <string name="flower_5_year">2019</string>
+    <string name="flower_6_year">2021</string>
+</resources>
